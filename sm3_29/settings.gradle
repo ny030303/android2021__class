@@ -1,0 +1,3 @@
+include ':sqlitetest'
+include ':app'
+rootProject.name = "sm3_29"

@@ -10,3 +10,6 @@
 * sm3_25: https://github.com/ny030303/android2021__class/tree/master/sm3_25
     * app : button 누르면 toast, snackbar, alertDialog 나타나기
     * myapplication : id, pw 입력하고 맞으면 OtherActivity로 성공화면, 틀리면 Toast로 메시지
+* sm3_29: https://github.com/ny030303/android2021__class/tree/master/sm3_29
+    * app: SQLite로 주소록 작성 => DBHelper class
+    * sqLiteTest : SQLite로 메모장 작성 연습 => DBHelper class
