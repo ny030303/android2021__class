@@ -15,3 +15,6 @@
     * sqLiteTest : SQLite로 메모장 작성 연습 => DBHelper class
 * sm4_15: https://github.com/ny030303/android2021__class/tree/master/sm4_15
     * app: 1.토스트 띄우기 2. 다이얼로그 띄우기 3. 브라우저 띄우기 4. 계산기 띄우기 총 점검
+* sm5_18: https://github.com/ny030303/android2021__class/tree/master/sm5_18
+    * app: SQLite로 아이콘 있는 메뉴 작성 => DBHelper class
+    * customAdapter2 : 어뎁터 연습
