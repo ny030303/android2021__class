@@ -1,0 +1,4 @@
+include ':webbookadapter'
+include ':app:webbookadapter'
+include ':app'
+rootProject.name = "CallApp"

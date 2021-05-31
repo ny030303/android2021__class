@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_img"
+        android:src=""/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_name"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="김비서가 외그럴까"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@+id/item_img"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_date"
+        android:textSize="15dp"
+        android:text="2018-03-03"
+        android:layout_below="@+id/item_name"
+        android:layout_alignLeft="@+id/item_name"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_size"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:text="9.1MB"
+        android:layout_toEndOf="@+id/item_date"
+        android:layout_alignTop="@+id/item_date"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_download"
+        android:src="@drawable/abc_vector_test"
+        android:layout_alignParentRight="true"/>
+</RelativeLayout>

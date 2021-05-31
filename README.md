@@ -1,6 +1,6 @@
 # android2021__class
 
-* 첫수업 이벤트, id로 찾기 등 기본기능 사용헤본 파일: https://github.com/ny030303/android2021__class/tree/master/sm3_4
+* 첫수업 이벤트, id로 찾기 등 기본기능 사용해본 파일: https://github.com/ny030303/android2021__class/tree/master/sm3_4
 * Dialog 사용, checkbox, link 사용해본 파일: https://github.com/ny030303/android2021__class/tree/master/sm3_8
 * adpter로 리스트 보여주기, menu icon 사용해본 파일: https://github.com/ny030303/android2021__class/tree/master/sm3_11
 * MyAdapter로 ListView 값 넣기, TabHost로 Tab(1,2,3) 전환: https://github.com/ny030303/android2021__class/tree/master/sm3_15
@@ -18,3 +18,5 @@
 * sm5_18: https://github.com/ny030303/android2021__class/tree/master/sm5_18
     * app: SQLite로 아이콘 있는 메뉴 작성 => DBHelper class
     * customAdapter2 : 어뎁터 연습
+* CallApp: https://github.com/ny030303/android2021__class/tree/master/CallApp
+    : 전화걸기(전화 권한 허용) + 어뎁터 연습 2 (교재 105-110p)
